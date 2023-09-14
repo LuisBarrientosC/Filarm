@@ -1,0 +1,2 @@
+ar3_control:ar3_description:ar3_gazebo:ar3_hardware_drivers:ar3_hardware_interface:ar3_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/yelidi/ar3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yelidi/ar3_ws/install -G Unix Makefiles
