@@ -1,6 +1,0 @@
-<launch>
-
-<node name="webcam" pkg="vision" type="image_publisher3.py" output="screen" respawn="true"/>
-
-
-</launch>
