@@ -1,0 +1,7 @@
+<launch>
+
+<node name="robot_plan" pkg="vision" type="xbox_seguimiento.py" output="screen" respawn="false"/>
+
+
+
+</launch>
