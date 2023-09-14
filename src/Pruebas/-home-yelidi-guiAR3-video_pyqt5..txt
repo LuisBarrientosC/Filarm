@@ -1,0 +1,1 @@
+/home/yelidi/guiAR3/video_pyqt5.py
