@@ -1,0 +1,3 @@
+<launch>
+  <node name="gui" pkg="ar3_ws" type="simple_gui.py" respawn="false" output="screen"></node>
+</launch>
