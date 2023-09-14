@@ -1,3 +1,0 @@
-<launch>
-  <node name="move_python" pkg="move_robot" type="test_robot.py" respawn="false" output="screen"></node>
-</launch>

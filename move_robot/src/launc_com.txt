@@ -1,7 +1,0 @@
-
-roslaunch ar3_gazebo ar3_gazebo_bringup.launch
-
-roslaunch ar3_moveit_config ar3_moveit_bringup.launch
-
-roslaunch move_robot move_python.launch
-
