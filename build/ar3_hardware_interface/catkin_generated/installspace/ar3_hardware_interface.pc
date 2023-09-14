@@ -1,0 +1,8 @@
+prefix=/home/yelidi/ar3_ws/install
+
+Name: ar3_hardware_interface
+Description: Description of ar3_hardware_interface
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lar3_hardware_interface
+Requires: hardware_interface controller_manager roscpp urdf joint_limits_interface ar3_hardware_drivers
