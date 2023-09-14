@@ -1,0 +1,1 @@
+/home/yelidi/guiAR3/gui6.py
