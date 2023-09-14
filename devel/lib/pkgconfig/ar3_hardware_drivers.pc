@@ -1,0 +1,8 @@
+prefix=/home/yelidi/ar3_ws/devel
+
+Name: ar3_hardware_drivers
+Description: Description of ar3_hardware_drivers
+Version: 0.0.0
+Cflags: -I/home/yelidi/ar3_ws/src/ar3_hardware_drivers/include -I/usr/include
+Libs: -L${prefix}/lib -lar3_hardware_drivers /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: roscpp rospy std_msgs
